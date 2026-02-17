@@ -37,3 +37,21 @@ The project follows a professional Machine Learning workflow including:
 ## 📂 Project Structure
 
 "# covid-ml-project" 
+
+
+## Phase 2 - Machine Learning
+
+Models implemented:
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+Tracking:
+- MLflow used for experiment tracking
+
+Cross-validation:
+- StratifiedKFold (3 folds)
+
+Evaluation metric:
+- F1-score (due to class imbalance)
+
